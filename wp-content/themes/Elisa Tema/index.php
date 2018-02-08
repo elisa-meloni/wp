@@ -5,6 +5,7 @@
           <h4><?php bloginfo(description) ?></h4>
         </div>
       </div>
+     <?php the_content(); ?>
     </div>
   </div>
   <div class="row text-center" id="contact">
