@@ -8,7 +8,7 @@
 
 </body>
 </html><footer>
-	<small>tutte le immagini sono protette da copyright © febbraio 2018</small>
+	<small>Tutte le immagini sono protette da copyright © febbraio 2018</small>
 </footer>
 
 </body>
